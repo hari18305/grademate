@@ -96,7 +96,7 @@ figure {
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;
-    background: #ccc;
+    background: #060043;
 }
 
 .page-border .bottom-border, .page-border .top-border {
@@ -552,7 +552,7 @@ section {
     display: inline-block;
     width: 38px;
     height: 71px;
-    color: #111;
+    color: #ffffff;
     cursor: pointer;
     text-transform: uppercase;
     font-size: 22px;
@@ -942,6 +942,14 @@ blockquote {
 .testimonial footer {
     padding-top: 12px;
 }
+
+@media (max-width: 900px) {
+    #testimonials .row {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
 
 /* Style Classic - Avatar above Testimonial */
 
@@ -2324,9 +2332,4 @@ blockquote {
     .slvj-lightbox iframe, .slvj-lightbox object, .slvj-lightbox embed {
         height: 432px !important;
     }
-
 }
-
-
-
-

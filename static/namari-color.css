@@ -15,7 +15,7 @@
 
 
 body {
-    background:#fff;
+    background:#5b5b5b;
 }
 
 
@@ -138,7 +138,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size:15px;
     font-weight:normal;
-    color:#111;
+    color:#ffffff;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -184,7 +184,7 @@ body {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 34px; 
     font-weight:700;
-    color:#111;
+    color:#26ff00;
 }
 
 .section-subtitle {
@@ -203,7 +203,7 @@ body {
 }
 
 .testimonial.classic q, .testimonial.classic footer {
-    color:#111;
+    color:#ffffff;
 }
 
 
@@ -213,7 +213,7 @@ h1 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 40px; 
     font-weight:300;
-    color:#111;
+    color:#000000;
 }
 
 h2 {
@@ -234,7 +234,7 @@ h4 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 18px; 
     font-weight:400;
-    color:#111;
+    color:#26ff00;
 }
 
 h5 {
@@ -248,7 +248,7 @@ h6 {
     font-family: 'Open Sans', sans-serif, Arial, Helvetica;
     font-size: 14px; 
     font-weight:400;
-    color:#111;
+    color:#000000;
 }
 
 
